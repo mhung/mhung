@@ -1,0 +1,183 @@
+body
+{
+    font-family: helvetica;   
+}
+
+.page
+{
+    margin-top: 30px;   
+}
+.container
+{
+    width: 80%;
+    margin-left:auto;
+    margin-right:auto;
+    height: auto;
+    margin-top:-10px;
+    
+}
+
+
+.container2
+{
+    width: 80%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: -70px;
+    height: 470px;
+  
+    background-color: #E0E0E0;
+    
+}
+
+.container3
+{
+    width: 80%;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: -70px;
+    height: 470px;
+  
+    background-color:white;
+    
+}
+
+.poleImage
+{
+    background-repeat: repeat-x;   
+    background-image: url("../images/pole.png");
+    width: auto;
+    height: 2.5px;
+}
+
+.banner
+{
+    margin-top: 50px;
+    
+    background-image: url("../images/banner.png");
+    width: auto;
+    height: 120px;
+}
+
+.name
+{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 16px;
+    color:black;
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+
+
+.left
+{
+    float:left;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.right
+{
+    float: right;
+    margin-right: 50px;
+     margin-top: 30px;
+}
+
+.flagGreen
+{
+    
+    float:right;
+
+}
+
+ul
+{
+    float: right;
+    
+}
+
+ul li
+{
+    display: inline-block;
+    color: black;
+    padding: 10px;
+}
+
+.text-where
+{
+ color:#16A5A1;   
+}
+
+a{text-decoration: none;  color: black;}
+    
+
+a:hover
+{
+    text-decoration: underline;
+    color:black;
+}
+
+.title-White
+{
+    color:white;
+}
+
+.tb-content
+{
+    color:#8C6785; 
+    line-height: 30px;
+}
+
+
+.tb-header
+{
+    background-image: url("../images/table-head.png");   
+    background-repeat: repeat-x;
+    height: 38px;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+.tb-body
+{
+    background-image: url("../images/table-body.png");   
+    background-repeat: repeat-x;
+    padding: 40px;
+    height: 155px;
+    width: 300px;
+   margin-top: 10px;
+}
+
+.tb-body-small
+{
+    margin-top: 10px;
+    width:300px;
+}
+
+.tb-row
+{
+    
+    width:30%;
+    background-color: #0FB7AB;
+    float: left;
+     height: 200px;
+     max-height: 200px;
+}
+
+.tb-row-2
+{
+    margin-left: 5%;
+   width:65%;
+    background-color:#E0E0E0;
+    float: left;
+    height: 200px;
+    max-height: 200px;
+}
+
+h1
+{
+ display: inline-block;
+}
